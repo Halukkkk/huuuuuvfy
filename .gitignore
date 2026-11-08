@@ -1,0 +1,21 @@
+# Exclude third-party software and local test artifacts
+*.apk
+*.xapk
+*.apks
+*.aab
+*.obb
+*.unity3d
+*.assets
+*.dex
+*.so
+*.keystore
+*.jks
+*.pem
+*.der
+*.p12
+*.pfx
+*.log
+*.zip
+crash.txt
+__pycache__/
+.DS_Store
